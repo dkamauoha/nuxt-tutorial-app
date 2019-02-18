@@ -1,0 +1,22 @@
+{
+  "name": "tutorial-app",
+  "version": "1.0.0",
+  "description": "Following the Academind Nuxt.js Introduction",
+  "author": "Dylan Kamauoha",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "axios": "^0.18.0",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
